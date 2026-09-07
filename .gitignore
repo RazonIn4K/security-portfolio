@@ -1,0 +1,11 @@
+# Local study material and personal onboarding drafts
+/private-notes/
+/LEARNING-GUIDE.md
+/LABS-ORIENTATION.md
+/STUDY-SESSION.md
+
+# Local configuration and operating-system files
+.DS_Store
+.env
+.env.*
+*.local
