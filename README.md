@@ -15,7 +15,7 @@ The investigations below are planned. Write-ups will be linked as the work is co
 | # | Title | Focus | Write-up |
 | --- | --- | --- | --- |
 | 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Write-up](investigations/operation-dead-deploy/) |
-| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | Planned — week 2 |
+| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | [Stub](investigations/the-stolen-identity/) — in progress, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | Planned — week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | Planned — week 4 |
 | 5 | Network the Operative | Network segmentation | Planned — week 5 |
