@@ -1,6 +1,6 @@
 # Investigating Unauthorized Provisioning in a Shared Azure Tenant
 
-Status: Draft — ready for review before publish.
+Status: Complete — published to this repo.
 
 ## Scenario
 
